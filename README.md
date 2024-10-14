@@ -1,1 +1,2 @@
-# My Personal Setup :sparkles:
+# :sparkles: My Personal Setup :heart:
+
