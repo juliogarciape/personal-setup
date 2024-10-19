@@ -1,0 +1,13 @@
+[user]
+	name = Julio Cesar Garcia
+	email = juliogarciamelgarejo@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	autocrlf = input
+[i18n]
+	logOutputEncoding = utf-8
+	commitEncoding = utf-8
+	locale = en_US
+[alias]
+	tree = log --graph --decorate --all --oneline
